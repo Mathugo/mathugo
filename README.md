@@ -9,15 +9,13 @@
 
 - 🤝 I’m looking for help with [Flower](https://github.com/adap/flower)
 
-- 👨‍💻 All of my projects are available at [hugomath.com](hugomath.com)
-
-- 💬 Ask me about **Edge AI**
+- 💬 Ask me about **Transformer Model for Event Data**
 
 - 📫 How to reach me **hugo.mathh@gmail.com**
 
-- 📄 Know about my experiences [https://hugomath.com/doc/cv_math_hugo.pdf](https://hugomath.com/doc/cv_math_hugo.pdf)
-
-- ⚡ Fun fact **I love sunny places so I want to work in Scandinavia lol**
+- 📄 Know about my experiences [https://hugomath.com/doc/cv_math_hugo.pdf](https://hugomath.com/doc/cv_math_hugo.pdf) (outdated)
+  
+- 👨‍💻 All of my projects are available at [hugomath.com](hugomath.com) (outdated)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
