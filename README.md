@@ -13,8 +13,11 @@ My work spans both event sequence modeling and causal discovery, with a focus on
 
 <h3 align="left"> 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Beyond Research:</h3>
 
+- Msc(eng) in France, Dijon (Polytech Dijon)
+- MBA as a double degree (IAE Dijon)
 - Former Erasmus student at the Chalmers University of Technology
 - Former auto-entrepreneur, with multiple years of freelance mission in the semiconductor industry to automate wafer inspections using computer vision models
+  
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hugo-math-b12250175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hugo-math-b12250175/" height="30" width="40" /></a>
