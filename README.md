@@ -1,29 +1,18 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">PhD Student | BMW Group | Augsburg University </h3>
+<h3 align="center">AI Specialist | BMW Group </h3>
 
-
-- 👨‍🎓 I'm a PhD student in Data Science at BMW and affiliated with the University of Augsburg 
-- 🔭 I’m currently working on [Causal Discovery for Event Sequences](https://www.arxiv.org/abs/2509.23213)
-- 📫 How to reach me **hugo.mathh@gmail.com**
-- 📄 Know about my experiences [https://hugomath.com/doc/cv_math_hugo.pdf](https://hugomath.com/doc/cv_math_hugo.pdf) (outdated)
-- 👨‍💻 All of my projects are available at [hugomath.com](hugomath.com) (outdated)
+- 👨‍🎓 Submitted my PhD at the University of Augsburg 
+- 🔭 Currently working on [Causal Discovery for Event Sequences](https://www.arxiv.org/abs/2509.23213)
+- 📫 You can reach me at **hugo.mathh@gmail.com**
+- 👨‍💻 My [website](https://mathugo.github.io/)
 
 <h3 align="left">🔬 Research Interests:</h3>
 My work spans both event sequence modeling and causal discovery, with a focus on efficient methods to model high-dimensional discrete data of vehicles.
 
 <h3 align="left">📝 Publications </h3>
 
-- [One-Shot Multi-Label Causal Discovery in High-Dimensional Event Sequences](https://www.arxiv.org/abs/2509.23213) (CauScien @NeurIPS 2025)
-- [Towards Practical Multi-label Causal Discovery in High-Dimensional Event Sequences via One-Shot Graph Aggregation](https://arxiv.org/pdf/2509.19112) (SPIGM @NeurIPS 2025)
-- [Harnessing Event Sensory Data for Error Pattern Prediction in Vehicles](https://ojs.aaai.org/index.php/AAAI/article/view/34138/36293) (AAAI 2025)
+[my scholar](https://scholar.google.com/citations?user=POhdE-0AAAAJ&hl=fr)
 
-<h3 align="left"> ⭐️ Beyond Research:</h3>
-
-- Msc(eng) in France, Dijon (Polytech Dijon)
-- MBA as a double degree (IAE Dijon)
-- Former Erasmus student at the Chalmers University of Technology
-- Former auto-entrepreneur, with multiple years of freelance mission in the semiconductor industry to automate wafer inspections using computer vision models 
-  
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hugo-math-b12250175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hugo-math-b12250175/" height="30" width="40" /></a>
